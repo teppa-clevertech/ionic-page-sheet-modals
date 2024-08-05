@@ -1,0 +1,7 @@
+{
+  "name": "Pages & Modals",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
